@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/helena/Documents/WorldWideReb/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/helena/Documents/WorldWideReb/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_a07fc20828078a16f6069b5e8d679296d0de8f31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helena/Documents/WorldWideReb/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/helena/Documents/WorldWideReb/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_a07fc20828078a16f6069b5e8d679296d0de8f31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helena/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.7.3/f12e6cd05cbaecd74d16e685d45b627732939e42/jackson-databind-2.7.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f12e6cd05cbaecd74d16e685d45b627732939e42">
+        <dex dex="/Users/helena/Documents/WorldWideReb/app/build/intermediates/pre-dexed/debug/jackson-databind-2.7.3_ba885dc0893797138f36f585582772a2b91f8a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helena/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/helena/Documents/WorldWideReb/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_e0b589a87fed1acfd8b9c4108941a8febf8a07c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helena/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.7.3/e250c11c1329c7b6b62442a9743befad78be553c/jackson-annotations-2.7.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e250c11c1329c7b6b62442a9743befad78be553c">
+        <dex dex="/Users/helena/Documents/WorldWideReb/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.7.3_edbfce20087e23fe611319c62505994d292c495d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helena/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.7.3/1499b854ae9f370409792db5af1b552dc7d9682f/jackson-core-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1499b854ae9f370409792db5af1b552dc7d9682f">
+        <dex dex="/Users/helena/Documents/WorldWideReb/app/build/intermediates/pre-dexed/debug/jackson-core-2.7.3_40fcdef98c4717dd28ebcbddee259442d321e179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helena/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.7.3/e250c11c1329c7b6b62442a9743befad78be553c/jackson-annotations-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e250c11c1329c7b6b62442a9743befad78be553c">
+        <dex dex="/Users/helena/Documents/WorldWideReb/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.7.3_edbfce20087e23fe611319c62505994d292c495d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helena/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.7.3/f12e6cd05cbaecd74d16e685d45b627732939e42/jackson-databind-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f12e6cd05cbaecd74d16e685d45b627732939e42">
+        <dex dex="/Users/helena/Documents/WorldWideReb/app/build/intermediates/pre-dexed/debug/jackson-databind-2.7.3_ba885dc0893797138f36f585582772a2b91f8a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helena/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.7.3/1499b854ae9f370409792db5af1b552dc7d9682f/jackson-core-2.7.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1499b854ae9f370409792db5af1b552dc7d9682f">
+        <dex dex="/Users/helena/Documents/WorldWideReb/app/build/intermediates/pre-dexed/debug/jackson-core-2.7.3_40fcdef98c4717dd28ebcbddee259442d321e179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helena/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/helena/Documents/WorldWideReb/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_e0b589a87fed1acfd8b9c4108941a8febf8a07c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helena/Documents/WorldWideReb/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="30c71a0b0fbb3de8b6691ed40746585c7793dd69">
+        <dex dex="/Users/helena/Documents/WorldWideReb/app/build/intermediates/pre-dexed/debug/instant-run_853eeab969c7b3f0711c563d9c3b035c2b591e16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helena/Documents/WorldWideReb/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="261e18778cca6b59fb3792893cccbbccead98e32">
+        <dex dex="/Users/helena/Documents/WorldWideReb/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_3297bcc4ef35648899774bce0018daa7aaba7ce7.jar" />
+    </item>
+
+</items>

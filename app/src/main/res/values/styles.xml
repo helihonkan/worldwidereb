@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="customTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen" >
+        <item name="android:colorForeground">@android:color/holo_blue_light</item>
+    </style>
+
+</resources>

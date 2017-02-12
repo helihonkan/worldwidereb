@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">WorldWideReb</string>
+    <string name="title_activity_country">CountryActivity</string>
+    <string name="app_name_space">World Wide Reb</string>
+
+    <!-- Country information strings -->
+    <string name="top_level_domain">Top level domain:</string>
+    <string name="alpha_2_code">Alpha 2 code:</string>
+    <string name="alpha_3_code">Alpha 3 code:</string>
+    <string name="calling_codes">Calling code(s):</string>
+    <string name="capital">Capital:</string>
+    <string name="alt_spelling">Alternative spelling(s):</string>
+    <string name="relevance">Relevance:</string>
+    <string name="region">Region:</string>
+    <string name="sub_region">Sub region:</string>
+    <string name="translations">Translations:</string>
+    <string name="german">German:</string>
+    <string name="spanish">Spanish:</string>
+    <string name="french">French:</string>
+    <string name="japanese">Japanese:</string>
+    <string name="italian">Italian:</string>
+    <string name="population">Population:</string>
+    <string name="position">Position:</string>
+    <string name="lat">lat.</string>
+    <string name="long_">long.</string>
+    <string name="demonym">Demonym:</string>
+    <string name="area">Area:</string>
+    <string name="gini">Gini:</string>
+    <string name="timezones">Timezones</string>
+    <string name="borders">Borders:</string>
+    <string name="native_name">Native name:</string>
+    <string name="numeric_code">Numeric code:</string>
+    <string name="currencies">Currencies:</string>
+    <string name="languages">Languages:</string>
+
+    <!-- Error message strings -->
+    <string name="error_no_internet">Make sure you are connected to the internet to be able to
+        see all countries!</string>
+    <string name="error_fetching_data">Unable to fetch countries</string>
+    <string name="search">Search</string>
+
+</resources>
